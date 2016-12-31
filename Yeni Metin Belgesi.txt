@@ -1,0 +1,11 @@
+etkinliklere fiyat deðiþkeni eklenecek
+etkinliklere client deðiþkeni eklenecek
+member a dbasede satýn alýnan biletleri gösteren bölüm eklenecek
+user search yapýlacak
+clientpanele kendi eklediði etkinlikler eklenecek
+update kýsýmlarý eksik
+remove event eksik
+logout eksik
+geri dönüþler iptal edilecek sayfalarda
+registerCheck eksik
+buyticket sayfasý eksik
